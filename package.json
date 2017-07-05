@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "ts-node node_modules/tape/bin/tape Tests/test.ts"
+  },
+  "devDependencies": {
+    "@types/tape": "^4.2.30",
+    "tape": "^4.7.0"
+  }
+}
